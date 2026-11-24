@@ -1,7 +1,7 @@
 # Name: Angelo V. Dela Llarte
 # Section: IV-BSIT A
 # Activity: P1 - Student Grade Calculator
-# Date: November 16, 2026
+# Date: November 1, 2026
     
 
 
@@ -101,3 +101,9 @@ def main():
 main()
 
 
+# A local variable is created inside a function and can only be used inside that function.
+# For example, "total" in compute_average() exists only while that function runs, and using
+# it outside would cause an error. A global variable is defined outside all functions and
+# can be read anywhere in the file, like PASSING_AVERAGE at the top, which get_status() uses
+# to decide pass or fail. Local variables keep functions independent, while a global
+# variable is useful for a constant value that many functions need to share.
