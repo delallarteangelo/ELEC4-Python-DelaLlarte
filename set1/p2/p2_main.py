@@ -1,6 +1,6 @@
 # Name: Angelo V. Dela Llarte
 # Section: IV-BSIT A
-# Activity: P2: Custom Module: student_utils
+# Activity: P2: Custom Module: p2_main.py
 # Date: November 17, 2026
     
 
